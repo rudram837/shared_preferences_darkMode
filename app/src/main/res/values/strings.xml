@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="view_data">View Data</string>
+    <string name="select_hobbies">Select Hobbies</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="submit">Submit</string>
+    <string name="_5555555555">5555555555</string>
+    <string name="xyz_abc_gmail_com">xyz_abc@gmail.com</string>
+    <string name="video_games">Video Games</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="text_3">Text 3</string>
+    <string name="text_2">Text 2</string>
+    <string name="text_1">Text 1</string>
+    <string-array name="gender">
+        <item>Select Hobby</item>
+        <item>Playing Video Games</item>
+        <item>Reading</item>
+        <item>Coding</item>
+        <item>Writing</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="data_list_using_tablayout">Data List using TabLayout</string>
+</resources>
