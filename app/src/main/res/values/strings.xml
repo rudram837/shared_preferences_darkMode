@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Task</string>
+    <string name="app_name">Android Lab</string>
     <string name="name">Name</string>
     <string name="email">Email</string>
     <string name="phone">Phone</string>
